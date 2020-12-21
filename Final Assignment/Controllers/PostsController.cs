@@ -22,6 +22,11 @@ namespace Final_Assignment.Controllers
 
         public IHttpActionResult Get(int id)
         {
+            var post = postRepo.Get(id);
+            if (post == null)
+            {
+                return StatusCode(HttpStatusCode.NoContent);
+            }
             return Ok(postRepo.Get(id));
         }
         [Route("")]
