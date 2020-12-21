@@ -46,5 +46,12 @@ namespace Final_Assignment.Controllers
             postRepo.Delete(id);
             return StatusCode(HttpStatusCode.NoContent);
         }
+        CommentRepository commentRepo = new CommentRepository();
+        [Route("{id}/comment")]
+        public IHttpActionResult Getcomment(int id)
+        {
+            List<Comment> comments = commentRepo.GetAll().Where<Comment>(x => x.PostID == id).ToList();
+            return Ok(comments);
+        }
     }
 }
