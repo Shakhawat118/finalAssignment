@@ -6,7 +6,7 @@ using System.Linq;
 using System.Web;
 using System.Web.ModelBinding;
 
-namespace Final_Assignment.Repositories
+namespace Inventory_with_Repository_Pattern.Repositories
 {
     public class Repository<T> : IRepository<T> where T : class
     {

@@ -1,50 +1,102 @@
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\obj\Debug\Final Assignment.csprojAssemblyReference.cache
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\Final Assignment.dll.config
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\Final Assignment.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\Final Assignment.pdb
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\csc.exe
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\csc.exe.config
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\csc.rsp
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\csi.exe
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\csi.rsp
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\System.AppContext.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\vbc.exe
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\vbc.exe.config
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\vbc.rsp
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\VBCSCompiler.exe
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\EntityFramework.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\EntityFramework.SqlServer.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\Newtonsoft.Json.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\System.Net.Http.Formatting.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\System.Web.Http.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\System.Web.Http.WebHost.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\EntityFramework.xml
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\EntityFramework.SqlServer.xml
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\Newtonsoft.Json.xml
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\System.Net.Http.Formatting.xml
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\System.Web.Http.xml
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\System.Web.Http.WebHost.xml
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\obj\Debug\Final Assignment.csproj.CopyComplete
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\obj\Debug\Final Assignment.dll
-C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\Final Assignment\Final Assignment\obj\Debug\Final Assignment.pdb
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\Final Assignment.dll.config
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\Final Assignment.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\Final Assignment.pdb
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\csc.exe
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\csc.exe.config
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\csc.rsp
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\csi.exe
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\csi.rsp
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\System.AppContext.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\vbc.exe
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\vbc.exe.config
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\vbc.rsp
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\EntityFramework.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\EntityFramework.SqlServer.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\Newtonsoft.Json.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\System.Net.Http.Formatting.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\System.Web.Http.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\System.Web.Http.WebHost.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\EntityFramework.xml
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\EntityFramework.SqlServer.xml
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\Newtonsoft.Json.xml
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\System.Net.Http.Formatting.xml
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\System.Web.Http.xml
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\System.Web.Http.WebHost.xml
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\obj\Debug\Final Assignment.csprojAssemblyReference.cache
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\obj\Debug\Final Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\obj\Debug\Final Assignment.csproj.CopyComplete
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\obj\Debug\Final Assignment.dll
+C:\Users\ahsan\source\repos\Final Assignment\Final Assignment\obj\Debug\Final Assignment.pdb
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\Final Assignment.dll.config
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\Final Assignment.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\Final Assignment.pdb
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\csc.exe
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\csc.exe.config
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\csc.rsp
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\csi.exe
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\csi.rsp
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\System.AppContext.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\vbc.exe
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\vbc.exe.config
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\vbc.rsp
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\EntityFramework.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\EntityFramework.SqlServer.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\Newtonsoft.Json.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\System.Net.Http.Formatting.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\System.Web.Http.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\System.Web.Http.WebHost.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\EntityFramework.xml
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\EntityFramework.SqlServer.xml
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\Newtonsoft.Json.xml
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\System.Net.Http.Formatting.xml
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\System.Web.Http.xml
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\System.Web.Http.WebHost.xml
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\obj\Debug\Final Assignment.csprojAssemblyReference.cache
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\obj\Debug\Final Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\obj\Debug\Final Assignment.csproj.CopyComplete
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\obj\Debug\Final Assignment.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\obj\Debug\Final Assignment.pdb
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\System.Web.Cors.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\System.Web.Http.Cors.dll
+C:\Users\ahsan\source\repos\FinalAssignment\Final Assignment\Final Assignment\bin\System.Web.Http.Cors.xml
 C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\Final Assignment.dll.config
 C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\Final Assignment.dll
 C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\Final Assignment.pdb
@@ -79,10 +131,13 @@ C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignmen
 C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\Newtonsoft.Json.dll
 C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\System.Net.Http.Formatting.dll
+C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\System.Web.Cors.dll
+C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\System.Web.Http.Cors.dll
 C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\System.Web.Http.dll
 C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\System.Web.Http.WebHost.dll
 C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\EntityFramework.xml
 C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\EntityFramework.SqlServer.xml
+C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\System.Web.Http.Cors.xml
 C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\Newtonsoft.Json.xml
 C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\System.Net.Http.Formatting.xml
 C:\Users\cbz\Desktop\Sem-9\.net\final_Assignment\finalAssignment\Final Assignment\bin\System.Web.Http.xml

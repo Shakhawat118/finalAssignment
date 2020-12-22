@@ -22,7 +22,6 @@ namespace Final_Assignment.Models
         public int UserID { get; set; }
         [JsonIgnore, XmlIgnore]
         public virtual Post Post { get; set; }
-        [JsonIgnore, XmlIgnore]
         public virtual User User { get; set; }
     }
 }

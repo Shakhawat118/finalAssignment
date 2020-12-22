@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Final_Assignment.Repositories
+namespace Inventory_with_Repository_Pattern.Repositories
 {
     interface IRepository<T> where T:class
     {
